@@ -1,4 +1,4 @@
-# qiantai16
+# qiantai
 
 > A Vue.js project
 
